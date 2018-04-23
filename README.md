@@ -1,6 +1,7 @@
 # Projects_Cloud
 
 Project description:
+
 -Sets up an MPI environment over AWS EC2. 
 
 -Runs an example MPI program
