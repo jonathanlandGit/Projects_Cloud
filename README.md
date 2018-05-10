@@ -1,6 +1,6 @@
 # Projects_Cloud
 
-(1) Project: MP_TechnicalReport_CC.pdf
+Project 1
 
 -Sets up an MPI environment over AWS EC2. 
 
@@ -8,10 +8,10 @@
 
 -Tests the timing performance of the MPI code with variant number of instances (i.e., 1, 2, 4, 8) and shows the speedup of parallelism.
 
--Includes step by step technical report
+-Includes step by step technical report (MP_TechnicalReport_CC.pdf)
 
 =============================
 
-(2) Project description: TechnicalReport_AWS.pdf
+Project 2
 
--Created a webpage and hosted it using AWS and Google Cloud Platform
+-Created a webpage and hosted it using AWS and Google Cloud Platform (TechnicalReport_AWS.pdf)
