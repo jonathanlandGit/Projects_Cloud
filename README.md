@@ -1,6 +1,6 @@
 # Projects_Cloud
 
-Project description (MP_TechnicalReport_CC.pdf)
+(1) Project: MP_TechnicalReport_CC.pdf
 
 -Sets up an MPI environment over AWS EC2. 
 
@@ -10,6 +10,8 @@ Project description (MP_TechnicalReport_CC.pdf)
 
 -Includes step by step technical report
 
-Project description (TechnicalReport_AWS.pdf)
+=============================
+
+(2) Project description: TechnicalReport_AWS.pdf
 
 -Created a webpage and hosted it using AWS and Google Cloud Platform
