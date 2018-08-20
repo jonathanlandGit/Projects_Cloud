@@ -2,7 +2,7 @@
 
 Project 1
 
--Sets up an MPI environment over AWS EC2 (NOTE: the script file to do so has been added, and the MPI code has been modified in some places from the original source code). 
+-Sets up an MPI environment over AWS EC2 (NOTE: the script file has been added, and the MPI code has been modified in some places from the original source code). 
 
 -Runs an example MPI program via Linux environment.
 
